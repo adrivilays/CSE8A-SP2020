@@ -1,6 +1,6 @@
 /* 
  * Filename: Picture.java
- * Created by: Adrianna Vilaysith A14923721
+ * Created by: Adrianna 
  * Date: April 24th, 2020
  * 
  */
