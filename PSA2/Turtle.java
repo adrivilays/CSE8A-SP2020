@@ -1,5 +1,5 @@
 /* Filename: Turtle.java
- * Modified by: Adrianna Vilaysith A14923721
+ * Modified by: Adrianna 
  * Modified by PSA Teams - Fall 2017 & Spring 2019 & Spring 2020
  * Date: April 10th, 2020
  */
