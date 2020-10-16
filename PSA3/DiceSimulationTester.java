@@ -1,5 +1,5 @@
 /* Filename: DiceSimulationTester.java
- * Created by: Adrianna Vilaysith A14923721
+ * Created by: Adrianna 
  * Date: April 16th, 2020 
  * Sources of Help:
  */
