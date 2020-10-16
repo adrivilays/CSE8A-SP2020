@@ -1,6 +1,6 @@
 /* 
  * Filename: HideSecretMessage.java
- * Created by: Adrianna Vilaysith A14923721
+ * Created by: Adrianna 
  * Date: May 22nd, 2020
  * 
  */
@@ -21,11 +21,11 @@ public class HideSecretMessage extends Picture
 		
 		Picture revealPic = context.hideSecretMessage2Bits(message);
 		revealPic.explore();
-		revealPic.write("/Users/adriannavilaysith/Documents/revealpic.bmp");
+		revealPic.write("/Documents/revealpic.bmp");
 		
 		Picture officialPic = revealPic.recoverSecretMessage2Bits();
 		officialPic.explore();
-		officialPic.write("/Users/adriannavilaysith/Documents/officialpic.bmp");
+		officialPic.write("/Documents/officialpic.bmp");
 		
 	}
    
