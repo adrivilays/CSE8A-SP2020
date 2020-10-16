@@ -1,5 +1,5 @@
 /* Filename: Turtle.java
- * Created by: Adrianna Vilaysith A14923721
+ * Created by: Adrianna 
  * Date: April 17th, 2020
  * Sources of help:
  */
