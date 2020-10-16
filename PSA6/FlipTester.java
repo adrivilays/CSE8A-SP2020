@@ -9,7 +9,7 @@ public class FlipTester {
 		**/
 		
 		Picture pic1 = new Picture 
-		("/Users/adriannavilaysith/Documents/bookClass/PSA6/candy.jpg");
+		("/bookClass/PSA6/candy.jpg");
 		pic1.explore();
 		
 		Picture copy1 = new Picture(pic1);
