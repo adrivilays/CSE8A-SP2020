@@ -1,6 +1,6 @@
 /* 
  * Filename: Chromakey.java
- * Created by: Adrianna Vilaysith A14923721
+ * Created by: Adrianna
  * Date: May 15th, 2020
  * 
  */
@@ -13,10 +13,10 @@ public class Chromakey {
 	{
 	
 		Picture original = new Picture
-		("/Users/adriannavilaysith/Documents/bookClass/PSA6/Original.png");
+		("/Documents/bookClass/PSA6/Original.png");
 		
 		Picture background = new Picture
-		("/Users/adriannavilaysith/Documents/bookClass/PSA6/Background.png");
+		("/Documents/bookClass/PSA6/Background.png");
 		
 		Color green = Color.green; 
 		
