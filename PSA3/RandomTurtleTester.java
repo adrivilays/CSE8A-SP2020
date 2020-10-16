@@ -1,5 +1,5 @@
 /* Filename: RandomTurtleTester.java
- * Created by: Adrianna Vilaysith A14923721
+ * Created by: Adrianna
  * Date: April 17th, 2020
  * Sources of Help: https://www2.cs.uic.edu/~i101/doc/SimpleTurtle.html
  */
