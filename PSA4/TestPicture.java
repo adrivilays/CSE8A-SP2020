@@ -12,7 +12,7 @@ public class TestPicture {
 		// System.out.println(FileChooser.pickAFile());
 		
 		Picture original = new Picture
-		("/Users/adriannavilaysith/Documents/bookClass/PSA4/bear.jpg");
+		("/Documents/bookClass/PSA4/bear.jpg");
 		
 		Picture copy = new Picture(original);
 		
