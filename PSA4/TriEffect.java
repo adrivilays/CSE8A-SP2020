@@ -10,7 +10,7 @@ public class TriEffect {
     public static void main (String[] args) {
 		
 		Picture original = new Picture
-		("/Users/adriannavilaysith/Documents/bookClass/PSA4/bear.jpg");
+		("/Documents/bookClass/PSA4/bear.jpg");
 		
 		Picture copy  = new Picture(original);
 		
